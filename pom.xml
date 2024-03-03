@@ -24,7 +24,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.hky.account</groupId>
+			<groupId>com.hky.common</groupId>
 			<artifactId>commons-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
